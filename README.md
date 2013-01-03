@@ -7,7 +7,7 @@ Introduction goes here.
 Example
 =======
 
-Example goes here.
+Example goes here. HERE!
 
 Testing
 -------
