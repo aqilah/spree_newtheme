@@ -1,13 +1,13 @@
-SpreeNewtheme
+Spree New theme
 =============
 
-Introduction goes here.
+Dummy for spree new theme
 
 
 Example
 =======
 
-Example goes here. HERE!
+No example yet
 
 Testing
 -------
