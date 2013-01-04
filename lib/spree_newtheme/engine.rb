@@ -2,8 +2,8 @@ module SpreeNewtheme
   class Engine < Rails::Engine
     require 'spree/core'
     require 'spree/user'
-    #isolate_namespace Spree
-    engine_name 'spree_newtheme'
+    isolate_namespace Spree
+    engine_name 'spree_newtheme_engine_spree'
 
     config.autoload_paths += %W(#{config.root}/lib)
 
