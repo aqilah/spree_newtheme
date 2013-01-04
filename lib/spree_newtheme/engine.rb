@@ -1,7 +1,7 @@
 module SpreeNewtheme
   class Engine < Rails::Engine
     require 'spree/core'
-    require 'user'
+    
     isolate_namespace Spree
     engine_name 'spree_newtheme'
 
