@@ -3,7 +3,7 @@ module SpreeNewtheme
     require 'spree/core'
     require 'spree/user'
     isolate_namespace Spree
-    engine_name 'spree_newtheme_engine_spree'
+    engine_name 'spree_newtheme'
 
     config.autoload_paths += %W(#{config.root}/lib)
 
